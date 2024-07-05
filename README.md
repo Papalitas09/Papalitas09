@@ -15,7 +15,7 @@
   
 - 👯 Collaborate with me on **Discord**
 
-- 📫 How to reach me **mitsuhaadly@gmail.com**
+- 📫 How to reach me **wkodkokwokd@gmail.com**
 
 <br>
 <h2 align="center"> 📝 ~ CONTACT ME ~ 📝 </h2>
