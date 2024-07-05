@@ -30,7 +30,7 @@ most used social media</p>
 <br>
 <h2 align="center"> 📈 ~ Github Stats ~ 📈 </h2>
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/adeleeeeyyyy"><img src="https://github-readme-stats.vercel.app/api?username=adeleeeeyyyy&theme=tokyonight&show_icons=true" /></a>
 </p>
 
@@ -45,3 +45,4 @@ most used social media</p>
 <p align="center">
   <a href="https://github.com/adeleeeeyyyy"><img src="https://github-profile-trophy.vercel.app/?username=adeleeeeyyyy&theme=radical&margin-w=20&no-bg=true&no-frame=false" /><a>
 </p>
+-->
