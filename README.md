@@ -2,7 +2,7 @@
 <h3 align="center">I'm Newbie Developer</h3>
 
 [![GitHub WidgetBox]()
-![readmebox](https://svgshare.com/i/15xW.svg)
+![readmebox]()
 
 <div>
   <h2 align="center">  ~ ABOUT ME ~  </h2>
