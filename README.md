@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mr.Papalitas</h1>
 <h3 align="center">I'm Newbie Developer</h3>
 
-[![GitHub WidgetBox]()
-![readmebox]()
+<!-- [![GitHub WidgetBox]() -->
+<!-- ![readmebox]() -->
 
 <div>
   <h2 align="center">  ~ ABOUT ME ~  </h2>
