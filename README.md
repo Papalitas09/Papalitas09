@@ -39,7 +39,7 @@ most used social media</p>
 <br>
 <h2 align="center"> 📈 ~ Github Stats ~ 📈 </h2>
 
-<p align="center" > ![](https://github-readme-stats.vercel.app/api?username=Papalitas09&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+<p align="center" > <a href = "" > <img src ="![](https://github-readme-stats.vercel.app/api?username=Papalitas09&theme=dark&hide_border=false&include_all_commits=false&count_private=false)" /></a><br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Papalitas09&theme=dark&hide_border=false)
  </p>
  <br/>
