@@ -18,6 +18,18 @@
 - 📫 How to reach me **wkkwk.w.d.wf**
 
 <br>
+
+# 💻 Tech Stack:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Papalitas09&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Papalitas09&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Papalitas09&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Papalitas09&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <h2 align="center"> 📝 ~ CONTACT ME ~ 📝 </h2>
 
 <p align="center">Here are some my <br>
@@ -28,9 +40,9 @@ most used social media</p>
 </p>
 </div>
 <br>
-<h2 align="center"> 📈 ~ Github Stats ~ 📈 </h2>
+<!-- <h2 align="center"> 📈 ~ Github Stats ~ 📈 </h2>
 
-<p align="center">
+<!--<p align="center">
   <a href="https://github.com/Papalitas09"><img src="https://github-readme-stats.vercel.app/api?username=Papalitas09&theme=tokyonight&show_icons=true" /></a>
 </p>
 
@@ -44,4 +56,4 @@ most used social media</p>
 
 <p align="center">
   <a href="https://github.com/adeleeeeyyyy"><img src="https://github-profile-trophy.vercel.app/?username=Papalitas09&theme=radical&margin-w=20&no-bg=true&no-frame=false" /><a>
-</p>
+</p> -->
