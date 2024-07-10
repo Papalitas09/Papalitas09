@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mr.Papalitas</h1>
 <h3 align="center">I'm Newbie Developer</h3>
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=adeleeeeyyyy&data=followers,repositories,stars,commits&theme=nautilus)](https://github.com/adeleeeeyyyy)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Papalitas09&data=followers,repositories,stars,commits&theme=nautilus)](https://github.com/adeleeeeyyyy)
 ![readmebox](https://svgshare.com/i/15xW.svg)
 
 <div>
