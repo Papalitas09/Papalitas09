@@ -35,7 +35,7 @@ most used social media</p>
 </p>
 
 <p align="center">
-  <a href="https://github.com/adeleeeeyyyy"><img src="https://github-readme-streak-stats.herokuapp.com/?user=adeleeeeyyyy&theme=tokyonight&hide_border=false&properties=background&border=%239611C5FF" /><a>
+  <a href="https://github.com/Papalitas09"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Papalitas09&theme=tokyonight&hide_border=false&properties=background&border=%239611C5FF" /><a>
 </p>
 
 <p align="center">
