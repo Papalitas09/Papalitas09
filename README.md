@@ -22,7 +22,7 @@
 <h2 align="center"> 💻 Tech Stack:</h2>
 
 
-<p align="center">
+<a align="center" href="">
 
 <div justify-content="center">
 <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white"/>
@@ -33,7 +33,7 @@
 <img src = "https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 </div>
 
-</p>
+</a>
 
 
 
