@@ -44,7 +44,7 @@
 most used social media</p>
 
 <p align="center">
-  <a href="https://www.instagram.com/Mr.Papalitas" target="_blank"><img src="https://img.shields.io/badge/-Papalitas-ocean?&style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+  <a href="https://www.instagram.com/Mr.Papalitas" target="_blank"><img src="https://img.shields.io/badge/-Mr.Papalitas-ocean?&style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 </p>
 </div>
 <br>
