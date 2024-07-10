@@ -21,7 +21,7 @@
 
 <h2 align="center"> 💻 Tech Stack:</h2>
 
-<a align="center" text-decoration = "none" href="">
+
 
 <div justify-content="center">
 <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white"/>
@@ -31,7 +31,7 @@
 <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
 <img src = "https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 </div>
-</a>
+
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
