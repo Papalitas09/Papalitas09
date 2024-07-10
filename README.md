@@ -43,5 +43,5 @@ most used social media</p>
 </p>
 
 <p align="center">
-  <a href="https://github.com/adeleeeeyyyy"><img src="https://github-profile-trophy.vercel.app/?username=adeleeeeyyyy&theme=radical&margin-w=20&no-bg=true&no-frame=false" /><a>
+  <a href="https://github.com/adeleeeeyyyy"><img src="https://github-profile-trophy.vercel.app/?username=Papalitas09&theme=radical&margin-w=20&no-bg=true&no-frame=false" /><a>
 </p>
