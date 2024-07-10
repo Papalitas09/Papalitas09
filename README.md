@@ -1,4 +1,4 @@
- <h1 align="center">Hi 👋, I'm Mr.Papalitas</h1>
+<h1 align="center">Hi 👋, I'm Mr.Papalitas</h1>
 <h3 align="center">I'm Newbie Developer</h3>
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Papalitas09&data=followers,repositories,stars,commits&theme=nautilus)](https://github.com/adeleeeeyyyy)
@@ -44,7 +44,7 @@
 most used social media</p>
 
 <p align="center">
-  <a href="https://www.instagram.com/Mr.Papalitas" target="_blank"><img src="https://img.shields.io/badge/-adeleeeeyyyy_-ocean?&style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+  <a href="https://www.instagram.com/Mr.Papalitas" target="_blank"><img src="https://img.shields.io/badge/-Papalitas-ocean?&style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 </p>
 </div>
 <br>
