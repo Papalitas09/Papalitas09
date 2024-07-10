@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Game development**
 <a>
-  <img src="[https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif](https://media.giphy.com/media/xWMPYx55WNhX136T0V/giphy.gif?cid=790b7611kncg214tosiuwuq3uo9xzzp462dejxzu2f3qo7q2&ep=v1_gifs_search&rid=giphy.gif&ct=g)">
+  <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif">
   </a>
   
 - 👯 Collaborate with me on **Discord**
