@@ -31,7 +31,7 @@ most used social media</p>
 <h2 align="center"> 📈 ~ Github Stats ~ 📈 </h2>
 
 <p align="center">
-  <a href="https://github.com/Papalitas09"><img src="" /></a>
+  <a href="https://github.com/Papalitas09"><img src="https://github-readme-stats.vercel.app/api?username=Papalitas09&theme=tokyonight&show_icons=true" /></a>
 </p>
 
 <p align="center">
