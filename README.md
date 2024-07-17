@@ -4,6 +4,7 @@
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Papalitas09&data=followers,repositories,stars,commits&theme=nautilus)](https://github.com/Papalitas09)
 <!-- ![readmebox](https://svgshare.com/i/15xW.svg) -->
 
+<a href="https://github.com/yuna0x0"><img src="https://github-readme-stats.vercel.app/api?username=yuna0x0&hide_border=true&show_icons=true" alt="yuna0x0's github stats"></a>
 
 <div>
   <h2 align="center">  ~ ABOUT ME ~  </h2>
