@@ -17,7 +17,7 @@
   
 - 👯 Collaborate with me on **Discord**
 
-- 📫 How to reach me **wkkwk.w.d.wf**
+- 📫 How to reach me **okok@gmail.com**
 
 <br>
 
