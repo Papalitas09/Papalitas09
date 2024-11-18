@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! Papalitas here!!!  and I'm a  Games Developer😁</h2>
+<h2 align="center">Hi 👋! Papalitas here!!!  and I'm a  Game Developer😁</h2>
 
 ###
 
