@@ -25,23 +25,19 @@
 
 ###
 
-<br clear="both">
-
 <h2 align="center">👨‍💻 About Me 👨‍💻</h2>
 
 ###
-
-<br clear="both">
 
 <p align="center">I'm Papalitas from Indonesia 🇮🇩<br> 🎮 Indie Solo Game Developer  (still learning and experimenting)  <br> 🌐 Begineer Website Developer exploring modern frameworks like Vue, Laravel, etc<br> 🏫 A student from Plus Pelita Nusantara Vocational High School <br> 📚 Currently learning some tech like VueJS, C#, Laravel<br> 😆 Also i can speak a little bit of  Sundanese :v</p>
 
 ###
 
-<br clear="both">
-
 <h2 align="center">💻 Tech Stack 💻</h2>
 
 ###
+
+<br clear="both">
 
 <div align="center">
   <img src="https://img.shields.io/badge/Unity-FFFFFF?logo=unity&logoColor=black&style=for-the-badge" height="30" alt="unity logo"  />
