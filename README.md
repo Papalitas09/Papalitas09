@@ -2,14 +2,24 @@
 
 ###
 
+<br clear="both">
+
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="facebook logo"  />
-  <img src="https://img.shields.io/static/v1?message=itch.io&logo=itch&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="itch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=GitLab&logo=gitlab&label=&color=FC6D26&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gitlab logo"  />
+  <a href="www.linkedin.com/in/satria-raja-djuanda" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.youtube.com/@mr.papalitas" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="youtube logo"  />
+  </a>
+  <a href="https://www.instagram.com/mr.papalitas/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="instagram logo"  />
+  </a>
+  <a href="https://haiirodev.itch.io/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=itch.io&logo=itch&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="itch logo"  />
+  </a>
+  <a href="https://gitlab.com/Papalitas09" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=GitLab&logo=gitlab&label=&color=FC6D26&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gitlab logo"  />
+  </a>
   <img src="https://img.shields.io/static/v1?message=Ko-fi&logo=ko-fi&label=&color=F16061&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="ko-fi logo"  />
 </div>
 
@@ -17,23 +27,23 @@
 
 <br clear="both">
 
-<h2 align="left">👨‍💻 About Me 👨‍💻</h2>
+<h2 align="center">👨‍💻 About Me 👨‍💻</h2>
 
 ###
 
 <br clear="both">
 
-<p align="left">I'm Papalitas from Indonesia 🇮🇩<br>- 🎮 Indie Solo Game Developer  (still learning and experimenting)  <br>- 🌐 Begineer Website Developer exploring modern frameworks like Vue, Laravel, etc<br>- 🏫 A student from Plus Pelita Nusantara Vocational High School <br>- 📚 Currently learning some tech like VueJS, C#, Laravel<br>- 😆 Also i can speak a little bit of  Sundanese :v</p>
+<p align="center">I'm Papalitas from Indonesia 🇮🇩<br> 🎮 Indie Solo Game Developer  (still learning and experimenting)  <br> 🌐 Begineer Website Developer exploring modern frameworks like Vue, Laravel, etc<br> 🏫 A student from Plus Pelita Nusantara Vocational High School <br> 📚 Currently learning some tech like VueJS, C#, Laravel<br> 😆 Also i can speak a little bit of  Sundanese :v</p>
 
 ###
 
 <br clear="both">
 
-<h2 align="left">💻 Tech Stack 💻</h2>
+<h2 align="center">💻 Tech Stack 💻</h2>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://img.shields.io/badge/Unity-FFFFFF?logo=unity&logoColor=black&style=for-the-badge" height="30" alt="unity logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/Blender-F5792A?logo=blender&logoColor=black&style=for-the-badge" height="30" alt="blender logo"  />
@@ -71,7 +81,7 @@
 
 ###
 
-<h2 align="left">🔥   My Stats  🔥</h2>
+<h2 align="center">🔥   My Stats  🔥</h2>
 
 ###
 
