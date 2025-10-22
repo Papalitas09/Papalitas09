@@ -1,4 +1,4 @@
-<h1 align="center">Hello!! Papalitas Here!!🌃</h1>
+<h1 align="center">Hello!! Satria Raja Djuanda Here!!🌃</h1>
 
 ###
 
@@ -31,7 +31,7 @@
 
 ###
 
-<p align="center">🇮🇩 I'm Papalitas from Indonesia 🇮🇩<br> 🎮 Indie Solo Game Developer  (still learning and experimenting)  <br> 🌐 Begineer Website Developer exploring modern frameworks like Vue, Laravel, etc<br> 🏫 A student from Plus Pelita Nusantara Vocational High School <br> 📚 Currently learning some tech like VueJS, C#, Laravel<br> 😆 Also i can speak a little bit of  Sundanese :v</p>
+<p align="center">🇮🇩 I'm Satria Raja Djuanda from Indonesia 🇮🇩<br> 🎮 Indie Solo Game Developer  (still learning and experimenting)  <br> 🌐 Begineer Website Developer exploring modern frameworks like Vue, Laravel, etc<br> 🏫 A student from Plus Pelita Nusantara Vocational High School <br> 📚 Currently learning some tech like VueJS, C#, Laravel<br> 😆 Also i can speak a little bit of  Sundanese :v</p>
 
 ###
 
