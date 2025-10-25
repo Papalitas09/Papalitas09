@@ -85,7 +85,7 @@
 
 ###
 
-<h2 align="center">👨‍💻 Others tech 👨‍💻</h2>
+<h2 align="center">👨‍💻 Other Tech 👨‍💻</h2>
 
 ###
 
