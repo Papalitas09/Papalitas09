@@ -35,7 +35,7 @@
 
 ###
 
-<h2 align="center">💻 Tech Stack 💻</h2>
+<h2 align="center">🎮 Game Development Techs 🎮</h2>
 
 ###
 
@@ -48,7 +48,18 @@
   <img width="5" />
   <img src="https://img.shields.io/badge/C Sharp-239120?logo=csharp&logoColor=white&style=for-the-badge" height="30" alt="csharp logo"  />
   <img width="5" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="30" alt="html5 logo"  />
+</div>
+
+###
+
+<h2 align="center">🌐 Web Development Techs 🌐</h2>
+
+###
+
+<br clear="both">
+
+<div align="center">
+   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="30" alt="html5 logo"  />
   <img width="5" />
   <img src="https://img.shields.io/badge/CSS-1572B6?logo=css&logoColor=white&style=for-the-badge" height="30" alt="css logo"  />
   <img width="5" />
