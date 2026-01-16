@@ -25,19 +25,19 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="center">👩‍💻  About Me</h3>
 
 ###
 
-<p align="left">I'm Satria Raja Djuanda from Indonesia🇮🇩🇮🇩</p>
+<p align="center">I'm Satria Raja Djuanda from Indonesia🇮🇩🇮🇩</p>
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="center">🛠 Language and tools</h3>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="unity logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40" alt="blender logo"  />
@@ -56,7 +56,7 @@
 </div>
 
 ###
- <img height="450" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExemd4ZGQ4dDE0aWdzemQzaDhueWs4OGM4bm05YTVxdXUzd2E2dzZ5ciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/LNdedRKuIwI74C4MtZ/giphy.gif"  />
+ <img height="450" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExemd4ZGQ4dDE0aWdzemQzaDhueWs4OGM4bm05YTVxdXUzd2E2dzZ5ciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/LNdedRKuIwI74C4MtZ/giphy.gif" align="center" />
 
 
 ###
